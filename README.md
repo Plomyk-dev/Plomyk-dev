@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Plomyk-dev&label=Profile%20views&color=ff3d84&style=flat" alt="plomykdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plomykdev" alt="plomykdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Plomyk-dev" alt="plomykdev" /></a> </p>
 
 - 🔭 I’m currently working on [Experience](experience.lostowl.com)
 
