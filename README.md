@@ -19,5 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plomyk-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="plomykdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plomykdev&show_icons=true&theme=tokyonight&locale=en" alt="Plomyk-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Plomyk-dev&show_icons=true&theme=tokyonight&locale=en" alt="Plomyk-dev" /></p>
 
