@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Plomyk</h1>
 <h3 align="center">A developer that tries to be good at everything but is average at most</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plomykdev&label=Profile%20views&color=ff3d84&style=flat" alt="plomykdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Plomyk-dev&label=Profile%20views&color=ff3d84&style=flat" alt="plomykdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plomykdev" alt="plomykdev" /></a> </p>
 
