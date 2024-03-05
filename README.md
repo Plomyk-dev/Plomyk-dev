@@ -17,7 +17,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/plomyk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="plomyk" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plomykdev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="plomykdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plomyk-dev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="plomykdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plomykdev&show_icons=true&theme=tokyonight&locale=en" alt="plomykdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plomykdev&show_icons=true&theme=tokyonight&locale=en" alt="Plomyk-dev" /></p>
 
